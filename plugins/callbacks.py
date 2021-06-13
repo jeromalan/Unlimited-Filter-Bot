@@ -48,7 +48,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton("Group", url="https://t.me/DraXmovieZ"),
-                    InlineKeyboardButton("Channel", url="https://t.me/DraXMovies_Drax")
+                    InlineKeyboardButton("Channel", url="https://t.me/joinchat/TV_lOjIzLBGmSMGi")
                 ],
                 [
                     InlineKeyboardButton("About Me", callback_data="about_data"),   
@@ -69,7 +69,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://t.me/DraXMovies_Drax")
+                        "SOURCE CODE", url="https://t.me/joinchat/TV_lOjIzLBGmSMGi")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
